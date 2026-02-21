@@ -1,4 +1,4 @@
-# 🎡 Dinner Roulette - Kerala Edition
+# Dinner Roulette - Kerala Edition
 
 <div align="center">
   <img src="screenshots/initial-state.png" alt="Dinner Roulette App" width="600">
@@ -12,6 +12,7 @@
 ## 📖 About
 
 Dinner Roulette is a fun, interactive web app that helps you decide what to eat from a curated selection of authentic Kerala cuisine dishes. Inspired by the rich culinary heritage of Kerala, India, this roulette wheel features 15 popular dishes ranging from traditional favorites like Appam and Puttu to beloved biryanis and curries.
+Live demo: https://jolly-rock-0ac28b510.4.azurestaticapps.net/
 
 Perfect for:
 - 🤔 Indecisive foodies who love Kerala cuisine
