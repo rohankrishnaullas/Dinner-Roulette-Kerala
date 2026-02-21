@@ -5,7 +5,7 @@
   
   **Can't decide what to eat? Let the roulette decide for you!**
   
-  [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](#)
+  [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://jolly-rock-0ac28b510.4.azurestaticapps.net)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 </div>
 
