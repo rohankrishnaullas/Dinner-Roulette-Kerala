@@ -1,6 +1,7 @@
 # 🎡 Dinner Roulette - Kerala Edition
 
 <div align="center">
+  <img src="screenshots/initial-state.png" alt="Dinner Roulette App" width="600">
   
   **Can't decide what to eat? Let the roulette decide for you!**
   
@@ -30,13 +31,11 @@ Perfect for:
 
 ## 🖼️ Screenshots
 
-> 📸 **Note**: Screenshots show the app at http://localhost:4173
-
 <table>
   <tr>
     <td align="center"><img src="screenshots/initial-state.png" alt="Initial State" width="250"/><br/><sub><b>Ready to Spin</b></sub></td>
-    <td align="center"><img src="screenshots/spinning.png" alt="Spinning" width="250"/><br/><sub><b>Spinning in Action</b></sub></td>
-    <td align="center"><img src="screenshots/result.png" alt="Result" width="250"/><br/><sub><b>Dinner Decided!</b></sub></td>
+    <td align="center"><img src="screenshots/spinning.png" alt="Spinning" width="250"/><br/><sub><b>Spinning Complete - Thalassery Biriyani!</b></sub></td>
+    <td align="center"><img src="screenshots/result.png" alt="Result" width="250"/><br/><sub><b>Dinner Decided - Neychor + Chicken Roast!</b></sub></td>
   </tr>
 </table>
 
